@@ -1,0 +1,26 @@
+ @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Scada&display=swap');
+
+:root
+{
+    --slantedtext: 'Grand Hotel', cursive;
+    --headingfont: 'catamaran', sans-serif;
+    --primarycolor:#698f3f;
+    --secondarycolor:#fca311;
+    --maindark:#3a3e3b;
+    --mainwhite:#fff;
+    --maingrey:#e5e5e5;
+--maintransition:all 0.3s ease-in-out;
+--letterspacing:0.5rem;
+   
+}
+
+body
+{
+    font-family: var(--headingfont);
+    line-height: 1.5;
+
+}
+a
+{
+    text-decoration: none;
+}
